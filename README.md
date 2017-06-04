@@ -1,6 +1,6 @@
 # Awesome Learning Resources for Codeigniter
 
-This repo contains list of awesome resources i used while learning the codeigniter framework.
+This repo contains list of awesome resources i used while learning the codeigniter framework. Feel free to add more resources that has helped you while using codeigniter. Share this repo among your friends.
 
 ## Table of Contents
 - [Documentation](#document)
@@ -15,12 +15,11 @@ This repo contains list of awesome resources i used while learning the codeignit
   * [Official CodeIgniter 2 Documentation](https://codeigniter.com/userguide2/)
 
 ## Ebooks
-  * [Official CodeIgniter 3 Documentation](https://codeigniter.com/user_guide/)
-  * [Official CodeIgniter 2 Documentation](https://codeigniter.com/userguide2/)
+  * [CodeIgniter for Rapid PHP Application Development](http://it-ebooks.info/book/2760/)
 
 ## Libraries
-  * [Official CodeIgniter 3 Documentation](https://codeigniter.com/user_guide/)
-  * [Official CodeIgniter 2 Documentation](https://codeigniter.com/userguide2/)
+  * [CodeIgniter Library For Ajax Server Side DataTables 1.10 >](https://github.com/zepernick/Codeigniter-DataTables)
+  * [chriskacerguis/codeigniter-restserver](https://github.com/chriskacerguis/codeigniter-restserver)
 
 ## Blog
   * [CodeIgniter – Getting Started With MVC](https://www.formget.com/codeigniter-mvc/)
